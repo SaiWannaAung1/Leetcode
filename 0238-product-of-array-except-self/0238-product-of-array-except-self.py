@@ -8,13 +8,12 @@ class Solution(object):
         result = [1] * n 
         prefix = 1
         for i in range(n):
-            result[i] = prefix  # Store the prefix product
-            prefix *= nums[i]   # Update prefix product
+            result[i] = prefix  
+            prefix *= nums[i]   
 
-        # Step 2: Compute suffix products and multiply
         suffix = 1
-        for i in range(n - 1, -1, -1):  # Iterate backward
-            result[i] *= suffix  # Multiply with suffix product
-            suffix *= nums[i]     # Update suffix product
+        for i in range(n - 1, -1, -1):  
+            result[i] *= suffix  
+            suffix *= nums[i]    
 
         return result
