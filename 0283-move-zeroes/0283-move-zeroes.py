@@ -1,11 +1,14 @@
 class Solution(object):
     def moveZeroes(self, nums):
-        """
-        Do not return anything, modify nums in-place instead.
-        """
-        for num in nums:
-            if num == 0:
-                nums.remove(num)
-                nums.append(0)
+        z=0
+        p=0
+        for i in nums:
+            if (i==0):
+                z+=1
+            else:
+                nums[p]=i
+                p+=1
+        if z>0:   
+            nums[-z:]=[0]*z
         return nums
         
