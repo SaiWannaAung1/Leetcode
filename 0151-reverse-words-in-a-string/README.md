@@ -8,7 +8,7 @@
   
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
- 
+  
 <pre>
 <strong>Input:</strong> s = &quot;the sky is blue&quot;
 <strong>Output:</strong> &quot;blue is sky the&quot;
