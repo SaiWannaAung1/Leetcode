@@ -9,7 +9,7 @@
 </pre><p><strong class="example">Example 2:</strong></p>
 <pre><strong>Input:</strong> flowerbed = [1,0,0,0,1], n = 2
 <strong>Output:</strong> false
-</pre>
+</pre> 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
