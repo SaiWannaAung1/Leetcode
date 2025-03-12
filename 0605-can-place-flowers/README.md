@@ -5,7 +5,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <pre><strong>Input:</strong> flowerbed = [1,0,0,0,1], n = 1
-<strong>Output:</strong> true
+<strong>Output:</strong> true 
 </pre><p><strong class="example">Example 2:</strong></p>
 <pre><strong>Input:</strong> flowerbed = [1,0,0,0,1], n = 2
 <strong>Output:</strong> false
