@@ -17,8 +17,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SaiWannaAung1/Leetcode/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/SaiWannaAung1/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SaiWannaAung1/Leetcode/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/SaiWannaAung1/Leetcode/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SaiWannaAung1/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SaiWannaAung1/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
