@@ -4,15 +4,19 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        list2 = []
-        left , right = 0, len(nums)-1
+        n = len(nums)
+        result = [0] * n
+        left, right = 0, n - 1
+        pos = n - 1  # Start filling from the end
+
         while left <= right:
-            if abs(nums[left]) >  abs(nums[right]):
-                list2.append(nums[left] **2)
-                left += 1  # Move left pointer to the right
+            if abs(nums[left]) > abs(nums[right]):
+                result[pos] = nums[left] ** 2
+                left += 1
             else:
-                list2.append(nums[right] ** 2)
-                right -= 1  # Move right pointer to the left
-        list2.reverse()
-        return list2
+                result[pos] = nums[right] ** 2
+                right -= 1
+            pos -= 1
+
+        return result
         
