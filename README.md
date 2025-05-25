@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaiWannaAung1/Leetcode/tree/master/0001-two-sum) |
+| [0322-coin-change](https://github.com/SaiWannaAung1/Leetcode/tree/master/0322-coin-change) |
 | [1019-squares-of-a-sorted-array](https://github.com/SaiWannaAung1/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SaiWannaAung1/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/SaiWannaAung1/Leetcode/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/SaiWannaAung1/Leetcode/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/SaiWannaAung1/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/SaiWannaAung1/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SaiWannaAung1/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
