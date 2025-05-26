@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/SaiWannaAung1/Leetcode/tree/master/0322-coin-change) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/SaiWannaAung1/Leetcode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
